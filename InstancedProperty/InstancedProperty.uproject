@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{70AF56B8-4CC0-420D-1CBC-F98B629A680B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "InstancedProperty",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
