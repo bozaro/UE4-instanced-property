@@ -1,5 +1,7 @@
 ﻿# UE 4.9 Bug
 
+UDN: https://udn.unrealengine.com/questions/267931/49410-opened-blueprint-corrupts-after-another-blue.html
+
 ## Steps to reproduce problem
 
  * Open project InstancedProperty.uproject
