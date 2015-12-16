@@ -23,8 +23,8 @@ UDN: https://udn.unrealengine.com/questions/267931/49410-opened-blueprint-corrup
  * Add variable "Foo" with type "String"
  * Add variable "Bar" with type "String"
  * Compile it
- * Set default value "Foo Value" to variable "Foo"
- * Set default value "Bar Value" to variable "Bar"
+ * Set default value "Foo Value" for variable "Foo"
+ * Set default value "Bar Value" for variable "Bar"
  * Compile it
  * Save it
 
