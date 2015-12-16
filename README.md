@@ -34,6 +34,6 @@ UDN: https://udn.unrealengine.com/questions/267931/49410-opened-blueprint-corrup
  * Compile it
  * Save it
  * Reopen blueprint
- * Set "Test > Compomenet Foo > Instanced Foo" proeprty in class defaults to ```InstancedBp```
+ * Set "Test > Instanced Foo" proeprty in class defaults to ```InstancedBp```
  * Compile it
  * Save it
